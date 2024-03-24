@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "InsatMark"
+rootProject.name = "InstaMark"
 include(":app")
  
