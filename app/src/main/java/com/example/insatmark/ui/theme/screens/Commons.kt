@@ -2,6 +2,7 @@ package com.example.insatmark.ui.theme.screens
 
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.fillMaxWidth
+import androidx.compose.material3.Button
 import androidx.compose.material3.OutlinedTextField
 import androidx.compose.material3.Surface
 import androidx.compose.material3.Text
@@ -38,6 +39,20 @@ fun TermsAndConditions(){
     ) {
         Text(text = stringResource(id = R.string.TandCS))
     }
+}
+@Composable
+fun ButtonCommon(
+    onBttonClicked: () -> Unit,
+    buttonText: String
+){
+    Button(onClick = { /*TODO*/ }, modifier = Modifier.fillMaxWidth()) {
+        Text(text = buttonText)
+    }
+}
+@Preview
+@Composable
+fun ButtonCommonPreview(){
+    ButtonCommon(onBttonClicked = {}, buttonText = "Click me")
 }
 @Preview(showBackground = true)
 @Composable

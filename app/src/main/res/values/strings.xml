@@ -7,4 +7,5 @@
     <string name="orlogin">Login I already have an account</string>
     <string name="orSignUpo">Don\'t have an account? Signup</string>
     <string name="TandCS">Terms and Conditions</string>
+    <string name="home">Home</string>
 </resources>
