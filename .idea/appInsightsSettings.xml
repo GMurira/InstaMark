@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.example.insatmark" />
+                  <option name="mobileSdkAppId" value="1:878067342382:android:2b374a8e26a9c330e313bf" />
+                  <option name="projectId" value="instamark-cac51" />
+                  <option name="projectNumber" value="878067342382" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />

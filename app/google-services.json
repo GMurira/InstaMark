@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "878067342382",
+    "project_id": "instamark-cac51",
+    "storage_bucket": "instamark-cac51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878067342382:android:2b374a8e26a9c330e313bf",
+        "android_client_info": {
+          "package_name": "com.example.insatmark"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLvkTplCM5Iw5aM1nLTGs7qlW2vWtEjs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

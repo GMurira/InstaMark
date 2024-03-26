@@ -8,4 +8,8 @@
     <string name="orSignUpo">Don\'t have an account? Signup</string>
     <string name="TandCS">Terms and Conditions</string>
     <string name="home">Home</string>
+    <string name="nfc">NFC</string>
+    <string name="qrcode">QR Code</string>
+    <string name="attendancemode">Choose Attendance Mode</string>
+    <string name="search">Search</string>
 </resources>
