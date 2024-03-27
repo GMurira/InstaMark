@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">InstaMark</string>
     <string name="password">Enter Your Password</string>
-    <string name="Login">Login</string>
+    <string name="Login">Login to your account</string>
     <string name="or">OR</string>
     <string name="signup">Sign Up</string>
     <string name="orlogin">Login I already have an account</string>
@@ -12,4 +12,9 @@
     <string name="qrcode">QR Code</string>
     <string name="attendancemode">Choose Attendance Mode</string>
     <string name="search">Search</string>
+    <string name="welcome">Welcome</string>
+    <string name="email">E-Mail</string>
+    <string name="typePassword">Type Password Here</string>
+    <string name="good_Morning">Good Morning</string>
+    <string name="get_started">Get Started</string>
 </resources>

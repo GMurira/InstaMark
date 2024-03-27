@@ -5,7 +5,7 @@ import androidx.annotation.StringRes
 import com.example.insatmark.R
 
 data class HomeServices(
-   @StringRes val name: Int,
+   @StringRes val serviceName: Int,
     @DrawableRes val serviceIcon: Int
 
 )
